@@ -1,0 +1,10 @@
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Flat_Datagrid\Flat_Datagrid\obj\Debug\Flat_Datagrid.csprojResolveAssemblyReference.cache
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Flat_Datagrid\Flat_Datagrid\obj\Debug\Flat_Datagrid.frmMainmenu.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Flat_Datagrid\Flat_Datagrid\obj\Debug\Flat_Datagrid.Properties.Resources.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Flat_Datagrid\Flat_Datagrid\obj\Debug\Flat_Datagrid.csproj.GenerateResource.Cache
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Flat_Datagrid\Flat_Datagrid\bin\Debug\Flat_Datagrid.exe
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Flat_Datagrid\Flat_Datagrid\bin\Debug\Flat_Datagrid.pdb
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Flat_Datagrid\Flat_Datagrid\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Flat_Datagrid\Flat_Datagrid\obj\Debug\Flat_Datagrid.exe
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Flat_Datagrid\Flat_Datagrid\obj\Debug\Flat_Datagrid.pdb
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\Flat_Datagrid\Flat_Datagrid\obj\Debug\Flat_Datagrid.frmLogin.resources
